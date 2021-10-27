@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ibi!!
 - 👀 I’m interested in Data science, analytics and engineering
-- 🌱 I’m currently working with motorefi as a **Technical Data Analyst**
+- 🌱 I’m currently working with motorefi as a **Associate Software Engineer, Data**
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me is by email :)
 
